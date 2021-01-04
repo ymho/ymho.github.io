@@ -1,4 +1,4 @@
-baseURL = "https://y-ohm.info"
+baseURL = "https://y-ohm.info/"
 languageCode = "ja"
 DefaultContentLanguage = "ja"
 title = "Website of y.ohm"
