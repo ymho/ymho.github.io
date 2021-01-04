@@ -7,6 +7,7 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 publishDir = "docs"
+canonifyurls = true
 
 # Enable Disqus
 #disqusShortname = ""
