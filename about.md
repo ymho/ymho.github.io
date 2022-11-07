@@ -4,15 +4,28 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+京都大学大学院情報学研究科社会情報学専攻 修士課程1年
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[医療情報学講座](https://medinfo.kuhp.kyoto-u.ac.jp/)
 
+大前裕輝（Yuki OMAE）
 
-[jekyll-organization]: https://github.com/jekyll
+# History
+
+2022-04 [医療情報学講座](https://medinfo.kuhp.kyoto-u.ac.jp/) 配属
+
+2022-04 京都大学大学院情報学研究科社会情報学専攻 入学
+
+2022-03 名古屋大学情報学部人間・社会情報学科 卒業
+
+2020-10 [情報社会設計論講座](https://mdg.si.i.nagoya-u.ac.jp/) 配属
+
+2020-04 名古屋大学情報学部人間・社会情報学科 3年次編入学
+
+2020-03 明石工業高等専門学校電気情報工学科 卒業
+
+2018-10 井上研 配属
+
+2015-04 明石工業高等専門学校電気情報工学科 入学
